@@ -47,7 +47,7 @@ Implementing the following commands in sequence shows the affect of verbose
 * Test case 6: test
 * Test case 7: ls
 
-8. Exit
+####8. Exit
 * Exits the shell
 
 
