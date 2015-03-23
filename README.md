@@ -1,6 +1,7 @@
 # UNIX Shell
 
 Compile the code using the makefile. Type **make** on the command line. It will generate two executables. Run **ronakShell** to start the shell.
+**TESTING.md** contains some of the text cases and formats for various features.
 
 This implementation contains the following features-
 
