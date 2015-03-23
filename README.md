@@ -1,5 +1,7 @@
 # UNIX Shell
 
+Compile the code using the makefile. Type 'make' on the command line. It will generate two executables. Run 'ronakShell' to start the shell.
+
 This implementation contains the following features-
 
 ####1. Creating a Child Process 
