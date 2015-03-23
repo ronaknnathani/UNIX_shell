@@ -1,0 +1,4 @@
+alias cls "printf "\033c""
+pwd
+date
+cal
